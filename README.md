@@ -4,5 +4,5 @@ Database: We have 397 normal CT images; 349 COVID-19 images; 1349 normal X-ray i
 
 The basic CNN model with a residual structure is like this:
 
-![](图片链接 "CNN model")
+![](cnn.png "CNN model")
 
