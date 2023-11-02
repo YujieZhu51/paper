@@ -6,3 +6,4 @@ The basic CNN model with a residual structure is like this:
 
 ![](cnn.png "CNN model")
 
+Then, we used transfer learning to transfer the parameters in X-ray images to CT images; self-supervised learning to enlarge the training set, and multi-task learning to train whether they are COVID and rotated images.
